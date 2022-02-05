@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "44531b64-8acd-4ed9-9f5e-e96e334a2a34": {
+      "ProjectGuid": "44531b64-8acd-4ed9-9f5e-e96e334a2a34",
+      "DisplayName": "AutoHotfixTool",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

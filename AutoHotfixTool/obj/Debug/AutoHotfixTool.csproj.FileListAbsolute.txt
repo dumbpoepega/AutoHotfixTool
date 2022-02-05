@@ -1,0 +1,11 @@
+C:\Users\tilte\Desktop\WH\AutoHotfixTool\AutoHotfixTool\bin\Debug\AutoHotfixTool.exe.config
+C:\Users\tilte\Desktop\WH\AutoHotfixTool\AutoHotfixTool\bin\Debug\AutoHotfixTool.exe
+C:\Users\tilte\Desktop\WH\AutoHotfixTool\AutoHotfixTool\bin\Debug\AutoHotfixTool.pdb
+C:\Users\tilte\Desktop\WH\AutoHotfixTool\AutoHotfixTool\obj\Debug\AutoHotfixTool.csproj.AssemblyReference.cache
+C:\Users\tilte\Desktop\WH\AutoHotfixTool\AutoHotfixTool\obj\Debug\AutoHotfixTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\tilte\Desktop\WH\AutoHotfixTool\AutoHotfixTool\obj\Debug\AutoHotfixTool.Form1.resources
+C:\Users\tilte\Desktop\WH\AutoHotfixTool\AutoHotfixTool\obj\Debug\AutoHotfixTool.Properties.Resources.resources
+C:\Users\tilte\Desktop\WH\AutoHotfixTool\AutoHotfixTool\obj\Debug\AutoHotfixTool.csproj.GenerateResource.cache
+C:\Users\tilte\Desktop\WH\AutoHotfixTool\AutoHotfixTool\obj\Debug\AutoHotfixTool.csproj.CoreCompileInputs.cache
+C:\Users\tilte\Desktop\WH\AutoHotfixTool\AutoHotfixTool\obj\Debug\AutoHotfixTool.exe
+C:\Users\tilte\Desktop\WH\AutoHotfixTool\AutoHotfixTool\obj\Debug\AutoHotfixTool.pdb
